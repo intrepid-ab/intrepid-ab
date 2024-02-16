@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/13OxBx17YmGYKH6Ar60UzELBei6As1WLI/view"  />
+  <img height="150" src="https://github.com/intrepid-ab/intrepid-ab/blob/main/banner.png"  />
 </div>
 
 ###
