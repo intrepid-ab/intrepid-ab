@@ -34,8 +34,8 @@
 
 ###
 
-<p align="left">🇪🇹 Ethiopian . 🇨🇦📍 YYC . 🧙🏽‍♂️ Dad . 🤖 Principal Advisor . ✟ EOTC <br><br>I enjoy building high performance teams and mobile technology.</p>
-
+<p align="left">Full-time dad, part time wizard 🧙🏽‍♂️ <br><br>I enjoy building high performance teams and mobile technology.</p>
+ 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
